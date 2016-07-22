@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project2
+namespace COMP_123_Assignment04_300870231_Tetiana
 {
     class Program
     {
